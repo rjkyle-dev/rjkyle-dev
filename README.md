@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm RJ Kyle Gepz. Labrador<br>I'm a 23-year-old passionate tech enthusiast <br>from Davao Del Norte State College. <br>I specialize in Web Development, focusing on <br>UI/UX design, and also dive into <br>Mobile App Development and Networking.<br><br>I'm currently expanding my skills in C#, Python, <br>and Game Development, and I love working on <br>collaborative school projects with fellow student <br>programmers. <br>Whether it's crafting smooth user interfaces, <br>building full-stack apps, or experimenting with new tech, <br>I'm always eager to learn and grow.
+👋 Hello there! I'm RJ Kyle Gepz. Labrador<br>I'm passionate tech enthusiast <br>from Davao Del Norte State College. <br>I specialize in Web Development, focusing on <br>UI/UX design, and also dive into <br>Mobile App Development and Networking.<br><br>I'm currently expanding my skills in C#, Python, <br>and Game Development, and I love working on <br>collaborative school projects with fellow student <br>programmers. <br>Whether it's crafting smooth user interfaces, <br>building full-stack apps, or experimenting with new tech, <br>I'm always eager to learn and grow.
 
 
 ## 🌐 Socials:
