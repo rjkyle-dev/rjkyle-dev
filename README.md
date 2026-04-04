@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://github.com/abhixdd/abhixdd/blob/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+
+</div>
+
 # 💫 About Me:
 👋 Hello there! I'm RJ Kyle Gepz. Labrador<br>I'm passionate tech enthusiast,<br>I specialize in Web Development, focusing on<br>UI/UX design, and also dive into<br>Mobile App Development and Networking.<br><br>I'm currently expanding my skills in C#, Python,<br>and Game Development, and I love working on<br>collaborative school projects with fellow student<br>programmers.<br>Whether it's crafting smooth user interfaces,<br>building full-stack apps, or experimenting with new tech,<br>I'm always eager to learn and grow.
 
@@ -17,5 +23,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rjkyle-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
